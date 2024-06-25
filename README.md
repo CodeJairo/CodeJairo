@@ -3,6 +3,8 @@
 ## Desarrollador Web Fullstack
 
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-black)](https://github.com/codejairo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://linkedin.com/in/codejairo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-brightgreen)](https://tu-portfolio.com)
 
 ---
 
