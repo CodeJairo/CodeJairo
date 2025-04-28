@@ -1,56 +1,57 @@
-# ¡Hola! 👋 Soy Jairo Herrera
+# Jairo Herrera – Desarrollador Web Fullstack
 
-## Desarrollador Web Fullstack
-
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-black)](https://github.com/codejairo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://linkedin.com/in/codejairo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-brightgreen)](https://tu-portfolio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-black)](https://github.com/codejairo)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://linkedin.com/in/codejairo)  [![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-brightgreen)](https://tu-portfolio.com)
 
 ---
 
-## Acerca de mí
+## Sobre mí
 
-Soy un desarrollador web fullstack en formación, apasionado por aprender y aplicar nuevas tecnologías. Me encanta crear aplicaciones web funcionales y atractivas, y estoy siempre en busca de nuevas oportunidades para mejorar mis habilidades.
+Soy ingeniero de software en formación y desarrollador web fullstack. Tengo experiencia en proyectos académicos y personales, aplicando patrones de arquitectura como MVC y Dependency Injection. Actualmente aprendo Clean Architecture para mejorar la escalabilidad de mis aplicaciones.
 
-- 🌟 **Especialidades:** Angular, Nest.js.
-- 📚 **Actualmente aprendiendo:** React, Vue.js Microservicios.
-- 🌐 **Idioma:** Español.
-- 💡 **Intereses:** Desarrollo web, diseño de interfaces de usuario, accesibilidad web.
+- 🌱 **Tecnologías clave:** Angular, Astro, Node.js con Express, TanStack Query
+- 📖 **Aprendiendo actualmente:** React, microservicios
+- 🌐 **Idiomas:** Español (nativo), conocimientos básicos de inglés
 
-## Habilidades Técnicas
+---
+
+## Habilidades
 
 ### Frontend
 
-- **Lenguajes:** JavaScript, TypeScript, HTML, CSS
-- **Frameworks y Librerías:** Angular, Astro, React (aprendiendo), Vue.js (aprendiendo)
-- **Herramientas y Tecnologías:** Tailwind
+- JavaScript / TypeScript, HTML5, CSS3
+- Angular, Astro
+- React (en progreso)
+- Tailwind CSS, Sass
 
 ### Backend
 
-- **Lenguajes:** JavaScript (Node.js)
-- **Frameworks y Librerías:** Nest.js, Express, TypeORM
-- **Bases de Datos:** MongoDB, Postgres, SQL
+- Node.js, Express, Nest.js
+- TanStack Query (React Query)
+- Bases de datos: MongoDB, PostgreSQL, MySQL
+- ORM / ODM: TypeORM, Mongoose
+- Patrones: MVC, Dependency Injection
 
-### Otras Habilidades
+### DevOps y herramientas
 
-- **Control de Versiones:** Git, GitHub
-- **Herramientas y Tecnologías:** Docker
-- **Diseño:** Figma
+- Docker, Git, GitHub, integración y despliegue continuo (CI/CD) básico: automatización de pruebas y despliegues
+- Figma, accesibilidad web
 
-## Educación
+---
 
-### Institución Universitaria Pascual Bravo
+## Formación Académica
 
-**Título:** Ingeniero de Software  
-**Periodo:** 2021-2do semestre - Actualmente  
+**Ingeniería de Software**  
+Institución Universitaria Pascual Bravo  
+2021.2 – Presente
+
+---
 
 ## Contacto
 
-- 📧 **Email:** jairoehr@gmail.com
-- 📞 **Teléfono:** +57-321-593-86-33
+- ✉️ [jairoehr@gmail.com](mailto:jairoehr@gmail.com)
+- 📱 +57 304 272 9943
+- 🌐 [Portafolio](https://codejairo.netlify.app/)
 
 ---
 
-¡Gracias por visitar mi perfil! Estoy abierto a colaborar en proyectos interesantes y siempre dispuesto a aprender y mejorar. Si tienes alguna propuesta o pregunta, no dudes en contactarme.
-
----
+> “La simplicidad es la máxima sofisticación.” – Leonardo da Vinci
