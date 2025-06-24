@@ -34,3 +34,5 @@ React, arquitectura basada en microservicios, Clean Architecture.
 ---
 
 >Enfocado en escribir código claro, útil y sostenible.
+
+<sub>💡 El portfolio aún está en desarrollo y los proyectos publicados son demostrativos, pensados para mostrar mis habilidades en diseño y desarrollo web, Si desea ver ejemplos reales de mi trabajo, estaré encantado de presentarlos.</sub>
