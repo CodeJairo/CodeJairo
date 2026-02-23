@@ -1,16 +1,23 @@
-## Hi there 👋
+# Jairo Herrera
 
-<!--
-**CodeJairo/CodeJairo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ingeniero de Software | Fullstack Developer** Especializado en el ecosistema TypeScript para construir soluciones robustas y escalables.
 
-Here are some ideas to get you started:
+Medellín, Colombia  
+[codejairo.me](https://codejairo.me/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Stack
+
+* **Frontend:** Angular, React, Astro, Tailwind CSS
+* **Backend:** Node.js, NestJS, Express, PostgreSQL
+* **DevOps/Tools:** Docker, GitHub Actions, Figma
+
+---
+
+### Proyectos & Contacto
+
+* **Pleroma:** Gestión contractual para entidades Estatales.
+* **Higinex:** Plataforma B2B de E-commerce.
+
+[jairoehr@gmail.com](mailto:jairoehr@gmail.com) | [LinkedIn](https://linkedin.com/in/codejairo)
