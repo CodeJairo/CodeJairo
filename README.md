@@ -17,7 +17,7 @@ Medellín, Colombia
 
 ### Proyectos & Contacto
 
-* **Pleroma:** Gestión contractual para entidades Estatales.
+* **Esp Contrata:** Gestión contractual para entidades Estatales.
 * **Higinex:** Plataforma B2B de E-commerce.
 
 [jairoehr@gmail.com](mailto:jairoehr@gmail.com) | [LinkedIn](https://linkedin.com/in/codejairo)
