@@ -1,23 +1,27 @@
-# Jairo Herrera
+# Jairo Esteban Herrera Rentería
 
-**Ingeniero de Software | Fullstack Developer** Especializado en el ecosistema TypeScript para construir soluciones robustas y escalables.
-
-Medellín, Colombia  
-[codejairo.me](https://codejairo.me/)
+Ingeniero de Software enfocado en arquitectura backend, seguridad y sistemas distribuidos. Experiencia diseñando APIs REST escalables, esquemas de autenticación JWT/RBAC, aislamiento de datos multi-tenant y pipelines de streaming de alto rendimiento.
 
 ---
 
-### Stack
+### Stack Tecnológico
 
-* **Frontend:** Angular, React, Astro, Tailwind CSS
-* **Backend:** Node.js, NestJS, Express, PostgreSQL
-* **DevOps/Tools:** Docker, GitHub Actions, Figma
+* **Backend & Bases de Datos:** Python (FastAPI, Polars), Node.js (NestJS, Express), PostgreSQL, Prisma ORM, Redis, Redpanda / Kafka.
+* **Frontend:** Angular, React, TypeScript, Tailwind CSS, Astro.
+* **DevOps, Cloud & Seguridad:** Docker, Linux (CLI), GitHub Actions (CI/CD), AWS S3 / MinIO, OWASP.
 
 ---
 
-### Proyectos & Contacto
+### Enfoque de Ingeniería
 
-* **Esp Contrata:** Gestión contractual para entidades Estatales.
-* **Higinex:** Plataforma B2B de E-commerce.
+* **Seguridad & Gobernanza:** Diseño de capas con aislamiento multi-tenant, auditoría de eventos y sanitización alineada a estándares OWASP.
+* **Sistemas de Datos:** Implementación de pipelines de eventos en streaming y arquitecturas analíticas Medallion (Bronze/Silver/Gold).
+* **Calidad de Software:** Enfoque orientado a pruebas (TDD), diseño guiado por el dominio (DDD) y entornos containerizados estables.
 
-[jairoehr@gmail.com](mailto:jairoehr@gmail.com) | [LinkedIn](https://linkedin.com/in/codejairo)
+---
+
+### Contacto y Enlaces
+
+* **Sitio Web:** [codejairo.me](https://www.codejairo.me)
+* **LinkedIn:** [linkedin.com/in/codejairo](https://www.linkedin.com/in/codejairo)
+* **Correo:** [jairoehr@gmail.com](mailto:jairoehr@gmail.com)
